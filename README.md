@@ -1,2 +1,3 @@
 # Python
-Simple game with Python Turtle to guess 50 states in the U.S.
+Simple game with Python Turtle:
+Do you know all 50 states in the U.S?
